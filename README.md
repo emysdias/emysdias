@@ -15,6 +15,17 @@ My name is Emily, and I am a graduate student in software engineering at the <a 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/240/000000/sass.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/96/000000/linux.png"></code>
+<code><img height="20" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png"></code>
+
+<h2 align="center">
+🤓 Do you want to hear a joke about software?
+</h2>
+<p align="center">
+I'm still developing it
+</p>
 
 ## 📈 GitHub Stats
 
