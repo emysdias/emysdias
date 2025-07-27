@@ -1,60 +1,63 @@
-### Hillow, everything good? <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h1 align="center">Hi there! 👋 I'm Emily Dias</h1>
 
-My name is Emily, and I am a graduate student in software engineering at the <a style="text-decoration:none;" href="http://www.unb.br">University of Brasilia</a> (UNB). I'm passionate about Front End, but I won't deny that I like Back End a lot too. I am always open to collaborating on projects, ideas and everything that interests me. Find out more about me and feel free to connect with me here:
-
-[![Linkedin Badge](https://img.shields.io/badge/-emysdias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilydiassousa/)](https://www.linkedin.com/in/emilydiassousa/)
-[![Instagram Badge](https://img.shields.io/badge/-emysdias-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/emysdias/)](https://www.instagram.com/emysdias/)
-[![Gmail Badge](https://img.shields.io/badge/-emilydiassousa26@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emilydiassousa26@gmail.com)](mailto:emilydiassousa26@gmail.com)
-
-## 👩‍💻 Languages and tools
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/240/000000/sass.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/96/000000/linux.png"></code>
-<code><img height="20" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png"></code>
-
-<h2 align="center">
-🤓 Do you want to hear a joke about software?
-</h2>
 <p align="center">
-I'm still developing it
+🎓 Software Engineer graduated from <a href="http://www.unb.br" target="_blank">University of Brasília (UnB)</a>  
+📚 Currently pursuing a post-graduate degree in Software Engineering  
+💻 Full Stack Developer with a focus on clean code, scalability and usability  
+🗾 Working remotely for a Japanese tech company  
+🤝 Open to contributing to innovative and impactful projects  
 </p>
+
+---
+
+## 💼 About Me
+
+I’m a Software Engineer passionate about building scalable and elegant solutions. While I specialize in **Frontend development with React.js**, I also enjoy diving into **Backend development with Node.js**, designing APIs, and optimizing database queries. I'm always looking to improve code quality, performance, and user experience.
+
+In my current role, I collaborate with international teams, applying **Clean Code**, **SOLID principles**, and focusing on **accessibility**, **performance**, and **maintainability**.
+
+## 🛠️ Technologies & Tools
+
+<div>
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" />
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" />
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" />
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" />
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" />
+  <img height="25" src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" />
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/elasticsearch/elasticsearch.png" alt="Elasticsearch" />
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" />
+  <img height="25" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png" alt="Ubuntu" />
+  <img height="25" src="https://img.icons8.com/color/96/000000/linux.png" alt="Linux" />
+  <img height="25" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" alt="VSCode" />
+</div>
+
+---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/emysdias">
-  <img align="center" style="height: 12.8rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emysdias&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Emily's GitHub Stats" />
-</a>
-
-<a href="https://github.com/emysdias">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emysdias&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Emily's GitHub Stats" />
-</a>
- 
-![Snake animation](https://github.com/emysdias/emysdias/blob/output/github-contribution-grid-snake.svg)
-
+  <a href="https://github.com/emysdias">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emysdias&show_icons=true&hide_border=true&count_private=true&theme=github_dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emysdias&layout=compact&langs_count=6&hide_border=true&theme=github_dark"/>
+  </a>
 </div>
-<!-- 
-**emysdias/emysdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+---
 
-Here are some ideas to get you started:
+## 📫 Let's Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+[![LinkedIn](https://img.shields.io/badge/-emysdias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilydiassousa/)](https://www.linkedin.com/in/emilydiassousa/)
+[![Instagram](https://img.shields.io/badge/-emysdias-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/emysdias/)](https://www.instagram.com/emysdias/)
+[![Gmail](https://img.shields.io/badge/-emilydiassousa26@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emilydiassousa26@gmail.com)](mailto:emilydiassousa26@gmail.com)
+
+---
+
+<p align="center">
+  <em>"Do you want to hear a software joke? I'm still developing it..." 🤓</em>
+</p>
+
+<!-- Snake animation -->
+<div align="center">
+  <img src="https://github.com/emysdias/emysdias/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
